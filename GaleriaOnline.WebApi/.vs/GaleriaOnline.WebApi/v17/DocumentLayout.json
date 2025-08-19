@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B6BC613-CCFE-4CB1-9D9A-020C5C7CD871}|GaleriaOnline.WebApi.csproj|c:\\users\\50526683848\\desktop\\galeriaonline\\galeriaonline.webapi\\dbcontextimagem\\galeriaonlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B6BC613-CCFE-4CB1-9D9A-020C5C7CD871}|GaleriaOnline.WebApi.csproj|solutionrelative:dbcontextimagem\\galeriaonlinedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B6BC613-CCFE-4CB1-9D9A-020C5C7CD871}|GaleriaOnline.WebApi.csproj|c:\\users\\50526683848\\desktop\\galeriaonline\\galeriaonline.webapi\\controllers\\imagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6BC613-CCFE-4CB1-9D9A-020C5C7CD871}|GaleriaOnline.WebApi.csproj|solutionrelative:controllers\\imagemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6BC613-CCFE-4CB1-9D9A-020C5C7CD871}|GaleriaOnline.WebApi.csproj|c:\\users\\50526683848\\desktop\\galeriaonline\\galeriaonline.webapi\\dto\\imagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6BC613-CCFE-4CB1-9D9A-020C5C7CD871}|GaleriaOnline.WebApi.csproj|solutionrelative:dto\\imagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GaleriaOnlineDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\DbContextImagem\\GaleriaOnlineDbContext.cs",
-              "RelativeDocumentMoniker": "DbContextImagem\\GaleriaOnlineDbContext.cs",
-              "ToolTip": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\DbContextImagem\\GaleriaOnlineDbContext.cs",
-              "RelativeToolTip": "DbContextImagem\\GaleriaOnlineDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T12:53:32.669Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImagemDto.cs",
+              "DocumentMoniker": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\DTO\\ImagemDto.cs",
+              "RelativeDocumentMoniker": "DTO\\ImagemDto.cs",
+              "ToolTip": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\DTO\\ImagemDto.cs",
+              "RelativeToolTip": "DTO\\ImagemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T19:00:11.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImagemController.cs",
+              "DocumentMoniker": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Controllers\\ImagemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImagemController.cs",
+              "ToolTip": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Controllers\\ImagemController.cs",
+              "RelativeToolTip": "Controllers\\ImagemController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAEwJkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T18:40:13.846Z",
+              "EditorCaption": ""
             }
           ]
         }
