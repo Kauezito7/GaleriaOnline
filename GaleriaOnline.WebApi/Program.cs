@@ -2,6 +2,7 @@ using GaleriaOnline.WebApi.DbContextImagem;
 using GaleriaOnline.WebApi.Interfaces;
 using GaleriaOnline.WebApi.Repositories;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.FileProviders;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -34,11 +35,24 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+//app.UseStaticFiles(new StaticFileOptions
+//{
+//    FileProvider = new PhysicalFileProvider(
+//        Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "imagens")),
+//    RequestPath = "/imagens"
+//});
+    
+
+// A SEQUENCIA IMPORTA MUITOOOOO! CUIDADOOOOO
+
+
+app.UseHttpsRedirection(); 
 
 app.UseCors("CorsPolicy");
 
 app.UseAuthorization();
+
+app.UseStaticFiles(); // Habilita servir arquivos estáticos da wwwroot
 
 app.MapControllers();
 
