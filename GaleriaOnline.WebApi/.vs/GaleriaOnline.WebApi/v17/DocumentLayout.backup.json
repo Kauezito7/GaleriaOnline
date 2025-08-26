@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B6BC613-CCFE-4CB1-9D9A-020C5C7CD871}|GaleriaOnline.WebApi.csproj|c:\\users\\50526683848\\desktop\\galeriaonline\\galeriaonline.webapi\\repositories\\imagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6BC613-CCFE-4CB1-9D9A-020C5C7CD871}|GaleriaOnline.WebApi.csproj|solutionrelative:repositories\\imagemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B6BC613-CCFE-4CB1-9D9A-020C5C7CD871}|GaleriaOnline.WebApi.csproj|c:\\users\\50526683848\\desktop\\galeriaonline\\galeriaonline.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B6BC613-CCFE-4CB1-9D9A-020C5C7CD871}|GaleriaOnline.WebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,24 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ImagemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Repositories\\ImagemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ImagemRepository.cs",
+              "ToolTip": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Repositories\\ImagemRepository.cs",
+              "RelativeToolTip": "Repositories\\ImagemRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:49:03.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACsAAAAEAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T11:23:31.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T11:23:31.136Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

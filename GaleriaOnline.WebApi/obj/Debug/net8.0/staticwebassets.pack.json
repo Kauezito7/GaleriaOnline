@@ -1,20 +1,24 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\26cf76bc-eda2-4d34-8ad3-89a25d6c47a4.png",
-      "PackagePath": "staticwebassets\\imagens\\26cf76bc-eda2-4d34-8ad3-89a25d6c47a4.png"
-    },
-    {
       "Id": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\38672c94-d4e1-4ec3-8908-ea8182e42e4d.jpg",
       "PackagePath": "staticwebassets\\imagens\\38672c94-d4e1-4ec3-8908-ea8182e42e4d.jpg"
     },
     {
-      "Id": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\9760da96-65ad-45ee-8625-cad257dff91d.png",
-      "PackagePath": "staticwebassets\\imagens\\9760da96-65ad-45ee-8625-cad257dff91d.png"
+      "Id": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\833881f7-33f1-428c-b31b-5ca0615fcd1f.jpg",
+      "PackagePath": "staticwebassets\\imagens\\833881f7-33f1-428c-b31b-5ca0615fcd1f.jpg"
     },
     {
-      "Id": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\f667743c-ace7-4179-a9bc-36a4130d2d21.png",
-      "PackagePath": "staticwebassets\\imagens\\f667743c-ace7-4179-a9bc-36a4130d2d21.png"
+      "Id": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\9cd764cc-78a9-4d9d-af3d-8ef89aef69e5.jpg",
+      "PackagePath": "staticwebassets\\imagens\\9cd764cc-78a9-4d9d-af3d-8ef89aef69e5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\d6829ece-058b-4a43-9552-b85ada1d98c3.jpg",
+      "PackagePath": "staticwebassets\\imagens\\d6829ece-058b-4a43-9552-b85ada1d98c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\50526683848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\wwwroot\\imagens\\d7ca3842-16ad-491b-aa28-2f8042a245e1.webp",
+      "PackagePath": "staticwebassets\\imagens\\d7ca3842-16ad-491b-aa28-2f8042a245e1.webp"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GaleriaOnline.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

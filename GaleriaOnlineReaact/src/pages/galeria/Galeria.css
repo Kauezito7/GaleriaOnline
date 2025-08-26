@@ -1,5 +1,5 @@
 .tituloGaleria {
-    color: #577C85;
+    color: #9ecbe4;
     font-weight: 300;
     font-size: 50px;
     text-align: center;
@@ -18,6 +18,10 @@
     width: 40%;
 }
 
+.cardDaImagem p {
+    color: #9ecbe4;
+}
+
 .inputNome,
 .arquivoLabel {
     background-color: white;
@@ -29,6 +33,9 @@
     border-radius: 6px;
     outline: none;
     padding: 0 7px 0 7px;
+
+    transition: 0.4s ease;
+    cursor: pointer;
 
 }
 
@@ -46,7 +53,14 @@
     cursor: pointer;
     text-align: center;
     align-content: center;
+
 }
+
+.arquivoLabel, .inputNome:hover {
+    background-color: #d1e7f0;
+    transform: scale(1.02);
+}
+
 
 .campoCards {
     padding: 50px;
@@ -55,6 +69,10 @@
     flex-wrap: wrap;
     justify-content: center;
     gap: 50px;
+
+    
+    
+    /* object-fit: contain; */
 }
 
 @media screen and (max-width: 765px){

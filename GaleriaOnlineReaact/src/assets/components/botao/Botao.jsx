@@ -2,7 +2,7 @@ import "./Botao.css"
 
 export const Botao = ({nomeBotao}) => {
     return(
-        <button className="botao" onClick="" type="submit">
+        <button className="botao"  type="submit">
             {nomeBotao}
         </button>
     )

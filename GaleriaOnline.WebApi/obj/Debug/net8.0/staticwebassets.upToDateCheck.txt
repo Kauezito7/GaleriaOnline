@@ -1,4 +1,5 @@
-wwwroot\imagens\26cf76bc-eda2-4d34-8ad3-89a25d6c47a4.png
 wwwroot\imagens\38672c94-d4e1-4ec3-8908-ea8182e42e4d.jpg
-wwwroot\imagens\9760da96-65ad-45ee-8625-cad257dff91d.png
-wwwroot\imagens\f667743c-ace7-4179-a9bc-36a4130d2d21.png
+wwwroot\imagens\833881f7-33f1-428c-b31b-5ca0615fcd1f.jpg
+wwwroot\imagens\9cd764cc-78a9-4d9d-af3d-8ef89aef69e5.jpg
+wwwroot\imagens\d6829ece-058b-4a43-9552-b85ada1d98c3.jpg
+wwwroot\imagens\d7ca3842-16ad-491b-aa28-2f8042a245e1.webp
